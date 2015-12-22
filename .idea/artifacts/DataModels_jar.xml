@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DataModels:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataModels_jar</output-path>
+    <root id="archive" name="DataModels.jar">
+      <element id="module-output" name="DataModels" />
+    </root>
+  </artifact>
+</component>
